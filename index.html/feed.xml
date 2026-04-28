@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SGF Locksmith Services of Bolivar - Lock Replacement News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest lock replacement news and tips from SGF Locksmith Services of Bolivar in Bolivar, MO.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2026 21:54:09 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>sgflocksmith@gmail.com (SGF Locksmith Services of Bolivar)</managingEditor>
+    <webMaster>sgflocksmith@gmail.com (SGF Locksmith Services of Bolivar)</webMaster>
+    
+  </channel>
+</rss>
